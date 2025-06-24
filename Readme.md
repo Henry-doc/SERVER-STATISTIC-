@@ -41,4 +41,4 @@ who | wc -l
 echo
 
 # project URL
-https://github.com/Henry-doc/SERVER-STATISTIC-
+https://roadmap.sh/projects/server-stats
